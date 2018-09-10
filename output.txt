@@ -1,0 +1,11 @@
+Command prompt - 1
+D:\Study\273\lab2>python addition_server.py
+
+
+Command prompt - 2
+D:\Study\273\lab2>python addition_client.py
+Enter 1st number:55
+Enter 2nd number:25
+Addition - 80
+
+D:\Study\273\lab2>
